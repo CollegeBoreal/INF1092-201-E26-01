@@ -36,12 +36,17 @@ Gestion système
 
 B --> C["
 Réseau & Virtualisation
-- Interfaces
-- Firewall
-- VM
+  - Interfaces
+  - Firewall
+  - VM
 "]
 
-C --> D1["Maintenance\n- Updates\n- Monitoring\n- Performance"]
+C --> D1["
+Maintenance
+  - Updates
+  - Monitoring
+  - Performance
+"]
 C --> D2["Sécurité & logiciels\n- Policies\n- Installation\n- Accès"]
 
 D1 --> E["Backup & Recovery\n- Backup données\n- Restore\n- Disaster recovery"]
