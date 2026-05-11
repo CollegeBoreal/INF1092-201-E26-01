@@ -24,7 +24,10 @@ A["Installation OS
 - Windows
 - Image
 - Automatisation"]
---> B["Gestion système\n- Comptes\n- Groupes\n- Permissions"]
+--> B["Gestion système
+- Comptes
+- Groupes
+- Permissions"]
 
 B --> C["Réseau & Virtualisation\n- Interfaces\n- Firewall\n- VM"]
 
