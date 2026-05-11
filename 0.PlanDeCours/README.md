@@ -15,4 +15,24 @@
 - [ ] Ajouter des images dans le répertoire `images`
 - [ ] Ajouter les images au fichier `README.md`
 
+---
+
+```mermaid
+flowchart TD
+
+A["Installation OS
+- Windows
+- Image
+- Automatisation"]
+--> B["Gestion système\n- Comptes\n- Groupes\n- Permissions"]
+
+B --> C["Réseau & Virtualisation\n- Interfaces\n- Firewall\n- VM"]
+
+C --> D1["Maintenance\n- Updates\n- Monitoring\n- Performance"]
+C --> D2["Sécurité & logiciels\n- Policies\n- Installation\n- Accès"]
+
+D1 --> E["Backup & Recovery\n- Backup données\n- Restore\n- Disaster recovery"]
+D2 --> E
+```
+
 # References
