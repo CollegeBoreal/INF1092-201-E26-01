@@ -88,9 +88,9 @@ Et comprendre :
 
 ## En résumé 🧠
 
-❌ Git n’est pas “optionnel”
-❌ Git n’est pas réservé aux devs
-✅ Git est un **outil de survie professionnelle**
+- ❌ Git n’est pas “optionnel”
+- ❌ Git n’est pas réservé aux devs
+- ✅ Git est un **outil de survie professionnelle**
 
 ---
 
