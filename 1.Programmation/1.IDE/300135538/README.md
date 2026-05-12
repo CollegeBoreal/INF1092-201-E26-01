@@ -1,4 +1,0 @@
-# IDE Assignment
-
-Name: Reda  
-ID: 300135538
