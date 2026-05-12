@@ -48,11 +48,11 @@ cd INF1092-201-E26-01/1.Programmation/1.IDE
 
 :checkered_flag: pas à pas,
 
-- [ ] avec le nom de répertoire :id: (votre identifiant boreal)
+* avec le nom de répertoire :id: (votre identifiant boreal)
 ```bash
 mkdir 🆔
 ```
-- [ ] dans votre répertoire ajouter le fichier `README.md`
+* dans votre répertoire ajouter le fichier `README.md`
 ```bash
 cd 🆔
 ```
@@ -60,7 +60,7 @@ cd 🆔
 nano README.md
 ```
 
-- [ ] remonter vers le répertoire de la leçon
+* remonter vers le répertoire de la leçon
 ```bash
 cd ..
 ```
@@ -68,7 +68,7 @@ cd ..
 
 * mettre le répertoire en scene (add to stage)
 ```sh
-git add :id:
+git add 🆔
 ```
 > Vérifier son status avec (doit etre :green_circle: vert)  
 ```sh
