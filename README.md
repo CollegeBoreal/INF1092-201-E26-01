@@ -16,6 +16,7 @@ Introduction à l'administration des systèmes
 
 |  :hash: | Date   | Cours                                  | 🎉 Participations                            |
 |---------|--------|:---------------------------------------|:---------------------------------------------|
+| :one:   | 11-Mai | [0.PlanDeCours](0.PlanDeCours)         | [🎉](0.PlanDeCours/.scripts/Participation.md) |
 
 
 
