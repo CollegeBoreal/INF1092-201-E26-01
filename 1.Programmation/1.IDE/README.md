@@ -35,48 +35,41 @@ cd Developer
    :warning: remplacer le `0X` avec le numéro de section
 
    ```sh
-   git clone https://github.com/CollegeBoreal/INF1102-201-26H-0X.git
+   git clone https://github.com/CollegeBoreal/INF1092-201-E26-01.git
    ```
    
 * allez dans le répertoire du cours
 
 ```sh
-cd INF1102-201-26H-0X/1.Programmation/1.IDE
+cd INF1092-201-E26-01/1.Programmation/1.IDE
 ```
 
-### :two: Créer son premier fichier sous git (utiliser vi)
-* Creer un fichier et l'éditer, par example un fichier ayant votre :id: Boréal avec l'extension `MarkDown` $\textbf{.md}$
+### :two: Créer son répertoire dans `(1.IDE)`:
+
+:checkered_flag: pas à pas,
+
+- [ ] avec le nom de répertoire :id: (votre identifiant boreal)
+      mkdir :id:
+- [ ] dans votre répertoire ajouter le fichier `README.md`
+      cd :id:
+      nano README.md
+
+- [ ] remonter vers le répertoire de la leçon
+      cd ..
+
+
+* mettre le répertoire en scene (add to stage)
 ```sh
-nano 300098957.md
-```
-* mettre le fichier en scene (add to stage)
-```sh
-git add 300098957.md
+git add :id:
 ```
 > Vérifier son status avec (doit etre :green_circle: vert)  
 ```sh
 git status
 ```
 
-* donner un commentaire aux fichiers à valider (commit)
-```sh
-git commit --message ":star: Mon premier commentaire"
-```
-:warning: Se referer à la [:point_right: section](#three-configurer-git-gitconfig---configuration-dinformations-personnelles) `Configuration d'informations personnelles` pour le premier `commit` 
+### :three: Donner un commentaire aux fichiers à valider (commit)
 
-* envoyer les modifications locales au serveur github
-  
-```sh
-git push
-```
-
-:secret: Remonter les informations vers le serveur requiert votre `utilisateur` et `mot de passe`
-
-> Username for 'https://github.com': b300098957
-> 
-> Password for 'https://b300098957@github.com':
-
-### :three: Configurer GIT `~/.gitconfig` - `Configuration d'informations personnelles`
+- [ ]  :a: Configurer GIT `~/.gitconfig` - `Configuration d'informations personnelles`
 
 :bulb: pour soumettre son travail vers `github.com`
 
@@ -104,6 +97,12 @@ git config --global --edit
         email = MonCourriel@me_remplacer.com
 ```
 
+- [ ]  :b: Signer son travail avec un commentaire
+
+```sh
+git commit --message ":star: Mon premier commentaire"
+```
+
 ### :u6307: Mettre à jour mon répertoire local (pull)
 ```sh
 git pull --no-edit
@@ -129,8 +128,6 @@ git pull --no-edit
       mv id_ed25519 ma_cle.pk
       mv id_ed25519.pub ma_cle.pub
       ```
-     
-
 
 - [ ] [:secret: Configurer git avec votre clé personnelle][SSH_PRIVATE_KEY] [Documentation][SSH_GITHUB_ACCOUNT]
 
@@ -163,15 +160,13 @@ git pull --no-edit
    :warning: remplacer le numéro de section `0X`
 
    ```sh
-   cd ~/Developer/INF1102-201-26H-0X/1.Programmation/1.IDE
+   cd ~/Developer/INF1092-201-E26-01/1.Programmation/1.IDE
    ```
 
 2. **Changer l’URL du dépôt distant**
 
-   :warning: remplacer le numéro de section `0X`
-
    ```sh
-   git remote set-url origin git@github.com:CollegeBoreal/INF1102-201-26H-0X.git
+   git remote set-url origin git@github.com:CollegeBoreal/INF1092-201-E26-01.git
    ```
 
 3. **Vérifier la nouvelle configuration du dépôt distant**
@@ -180,24 +175,12 @@ git pull --no-edit
    git remote --verbose
    ```
 
-   Ce qui affiche actuellement :
+    🖥️ Ce qui affiche actuellement :
 
    ```lua
-   origin  git@github.com:CollegeBoreal/INF1102-201-26H-0X.git (fetch)
-   origin  git@github.com:CollegeBoreal/INF1102-201-26H-0X.git (push)
+   origin  git@github.com:CollegeBoreal/INF1092-201-E26-01.git (fetch)
+   origin  git@github.com:CollegeBoreal/INF1092-201-E26-01.git (push)
    ```
-
-### :six: Créer un fichier dans ce répertoire `(1.IDE)`:
-
-:checkered_flag: Finalement,
-
-- [ ] avec le nom de répertoire :id: (votre identifiant boreal)
-- [ ] dans votre répertoire ajouter le fichier `README.md`
-  - [ ] `nano `README.md
-- [ ] envoyer vers le serveur `git`
-  - [ ] `git add `:id:/README.md
-  - [ ] `git commit -m "mon fichier ..."` :id:/README.md
-  - [ ] `git push`
 
 
 
