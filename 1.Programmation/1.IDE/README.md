@@ -49,16 +49,16 @@ cd INF1092-201-E26-01/1.Programmation/1.IDE
 :checkered_flag: pas à pas,
 
 - [ ] avec le nom de répertoire :id: (votre identifiant boreal)
-      ```bash
-      mkdir 🆔
-      ```
+```bash
+mkdir 🆔
+```
 - [ ] dans votre répertoire ajouter le fichier `README.md`
-      ```bash
-      cd 🆔
-      ```
-      ```bash
-      nano README.md
-      ```
+```bash
+cd 🆔
+```
+```bash
+nano README.md
+```
 
 - [ ] remonter vers le répertoire de la leçon
       > cd ..
