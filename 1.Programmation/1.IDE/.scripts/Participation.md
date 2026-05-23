@@ -1,4 +1,4 @@
-# Participation au 23-05-2026 17:45
+# Participation au 23-05-2026 18:06
 
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
@@ -16,7 +16,7 @@
 
 |:hash:| Boréal :id:                | README.md    | images |
 |------|----------------------------|--------------|--------|
-| 0 | [300124366](../300124366/README.md) :point_right: [rb0980h-dot](https://github.com/rb0980h-dot) <image src='https://avatars0.githubusercontent.com/u/261495945?s=460&v=4' width=20 height=20></image> | :x: | :x: |
+| 0 | [300124366](../300124366/README.md) :point_right: [rb0980h-dot](https://github.com/rb0980h-dot) <image src='https://avatars0.githubusercontent.com/u/261495945?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
 | 1 | [300147253](../300147253/README.md) :point_right: [octocat](https://github.com/octocat) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 2 | [300147891](../300147891/README.md) :point_right: [amadbarry96](https://github.com/amadbarry96) <image src='https://avatars0.githubusercontent.com/u/261496046?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 3 | [300151535](../300151535/README.md) :point_right: [moudiraghilas-cmyk](https://github.com/moudiraghilas-cmyk) <image src='https://avatars0.githubusercontent.com/u/262721627?s=460&v=4' width=20 height=20></image> | :x: | :x: |
