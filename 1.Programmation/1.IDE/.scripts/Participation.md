@@ -1,4 +1,4 @@
-# Participation au 26-05-2026 16:08
+# Participation au 26-05-2026 16:32
 
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
@@ -20,7 +20,7 @@
 | 1 | [300147253](../300147253/README.md) :point_right: [octocat](https://github.com/octocat) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 2 | [300147891](../300147891/README.md) :point_right: [amadbarry96](https://github.com/amadbarry96) <image src='https://avatars0.githubusercontent.com/u/261496046?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 3 | [300151535](../300151535/README.md) :point_right: [moudiraghilas-cmyk](https://github.com/moudiraghilas-cmyk) <image src='https://avatars0.githubusercontent.com/u/262721627?s=460&v=4' width=20 height=20></image> | :x: | :x: |
-| 4 | [300151722](../300151722/README.md) :point_right: [islamoustani5-collab](https://github.com/islamoustani5-collab) <image src='https://avatars0.githubusercontent.com/u/261488966?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
+| 4 | [300151722](../300151722/README.md) :point_right: [islamoustani5-collab](https://github.com/islamoustani5-collab) <image src='https://avatars0.githubusercontent.com/u/261488966?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 5 | [300152004](../300152004/README.md) :point_right: [danielmananga](https://github.com/danielmananga) <image src='https://avatars0.githubusercontent.com/u/218153814?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
 | 6 | [300153405](../300153405/README.md) :point_right: [rekaikkhaled](https://github.com/rekaikkhaled) <image src='https://avatars0.githubusercontent.com/u/261492660?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 7 | [300153416](../300153416/README.md) :point_right: [rouabahkhalil28-crypto](https://github.com/rouabahkhalil28-crypto) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: | :x: |
@@ -48,4 +48,4 @@
 | 29 | [300160504](../300160504/README.md) :point_right: [mmounir07](https://github.com/mmounir07) <image src='https://avatars0.githubusercontent.com/u/261492337?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
 | 30 | [300160733](../300160733/README.md) :point_right: [octocat](https://github.com/octocat) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 31 | [300160862](../300160862/README.md) :point_right: [cherifyamna](https://github.com/cherifyamna) <image src='https://avatars0.githubusercontent.com/u/261494322?s=460&v=4' width=20 height=20></image> | :x: | :x: |
-| :abacus: | \$\\frac{0}{32}\$ = 0% | \$\displaystyle\sum_{i=1}^{32} s_i\$ = 0 |
+| :abacus: | \$\\frac{1}{32}\$ = 3.12% | \$\displaystyle\sum_{i=1}^{32} s_i\$ = 1 |
