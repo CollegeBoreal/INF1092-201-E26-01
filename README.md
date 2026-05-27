@@ -20,7 +20,7 @@ Introduction à l'administration des systèmes
 |---------|--------|:---------------------------------------|:----------------------------------------------------- |
 | :one:   | 11-Mai | [0.PlanDeCours](0.PlanDeCours)         | [🎉](0.PlanDeCours/.scripts/Participation.md)         |
 | :two:   | 18-Mai | [1.Programmation](0.PlanDeCours)       | [🎉](1.Programmation/1.IDE/.scripts/Participation.md) |
-| :three: | 25-Mai | [3.IaC](3.IaC)                         | [🎉](3.IaC/.scripts/Participation.md)                 |
+| :three: | 25-Mai | [3.IaC](3.IaC)                         | [🎉 1️⃣   ](4.CRON-TASK/.scripts/Participation-group1.md) :curly_loop: [🎉 :2nd_place_medal:](4.CRON-TASK/.scripts/Participation-group2.md)[🎉](3.IaC/.scripts/Participation.md)                 |
 
 
 
