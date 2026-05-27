@@ -18,7 +18,7 @@
 
 | Proxmox Serveur                                     | User/Pwd         |
 |-----------------------------------------------------|------------------|
-| [10.7.237.34](https://10.7.237.34:8006) | root/Boreal@2️⃣02️⃣6 |
+| [10.7.237.28](https://10.7.237.28:8006) | root/Boreal@2️⃣02️⃣6 |
 
 
 | TOFU Credentials                                    | :closed_lock_with_key: Secret |
