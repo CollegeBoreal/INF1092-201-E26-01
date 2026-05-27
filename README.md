@@ -1,7 +1,7 @@
 # INF1092-201-E26-01 (Mardi 12H30 S208)
 Introduction à l'administration des systèmes
 
-<image src=image_0.jpg width='50%' height='50%' > </image>
+<image src=images/image_0.jpg width='50%' height='50%' > </image>
 
 ## :date: [Épreuves](.epreuves)
 
