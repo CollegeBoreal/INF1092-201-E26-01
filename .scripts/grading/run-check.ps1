@@ -4,13 +4,6 @@ param(
 )
 
 $dirs = @(
-    "3.IaC",
-    "4.CRON-TASK",
-    "5.BATCH",
-    "6.PWSH",
-    "7.REGEX",
-    "8.Project",
-    "9.Ansible"
 )
 
 foreach ($dir in $dirs) {
