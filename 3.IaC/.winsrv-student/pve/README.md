@@ -35,3 +35,5 @@ qm set 9001 --efidisk0 local-lvm:1,format=raw
 # ---------- START ----------
 qm start 9001
 ```
+
+`NY3️⃣HK-GGYWK-XVH2️⃣T-2️⃣VPRX-CDPY7️⃣`
