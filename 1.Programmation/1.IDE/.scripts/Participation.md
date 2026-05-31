@@ -1,4 +1,4 @@
-# Participation au 29-05-2026 23:17
+# Participation au 31-05-2026 18:38
 
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
@@ -27,7 +27,7 @@
 | 8 | [300153416](../300153416/README.md) :point_right: [rouabahkhalil28-crypto](https://github.com/rouabahkhalil28-crypto) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 9 | [300155045](../300155045/README.md) :point_right: [chouaibait](https://github.com/chouaibait) <image src='https://avatars0.githubusercontent.com/u/232956639?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 10 | [300155462](../300155462/README.md) :point_right: [zakariamamssi05](https://github.com/zakariamamssi05) <image src='https://avatars0.githubusercontent.com/u/231498971?s=460&v=4' width=20 height=20></image> | :x: | :x: |
-| 11 | [300156534](../300156534/README.md) :point_right: [salhiwalid540-hue](https://github.com/salhiwalid540-hue) <image src='https://avatars0.githubusercontent.com/u/261489191?s=460&v=4' width=20 height=20></image> | :x: | :x: |
+| 11 | [300156534](../300156534/README.md) :point_right: [salhiwalid540-hue](https://github.com/salhiwalid540-hue) <image src='https://avatars0.githubusercontent.com/u/261489191?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
 | 12 | [300157250](../300157250/README.md) :point_right: [jeanpi-erre01](https://github.com/jeanpi-erre01) <image src='https://avatars0.githubusercontent.com/u/261491627?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
 | 13 | [300157298](../300157298/README.md) :point_right: [amar20101999](https://github.com/amar20101999) <image src='https://avatars0.githubusercontent.com/u/288085455?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 14 | [300157307](../300157307/README.md) :point_right: [amaradjida7-hub](https://github.com/amaradjida7-hub) <image src='https://avatars0.githubusercontent.com/u/261494517?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
@@ -37,7 +37,7 @@
 | 18 | [300157733](../300157733/README.md) :point_right: [albachiralmouhamad](https://github.com/albachiralmouhamad) <image src='https://avatars0.githubusercontent.com/u/261491303?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 19 | [300158085](../300158085/README.md) :point_right: [kevinmayele-ai](https://github.com/kevinmayele-ai) <image src='https://avatars0.githubusercontent.com/u/258312358?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
 | 20 | [300159180](../300159180/README.md) :point_right: [abdenourzourane-cpu](https://github.com/abdenourzourane-cpu) <image src='https://avatars0.githubusercontent.com/u/261489848?s=460&v=4' width=20 height=20></image> | :x: | :x: |
-| 21 | [300159195](../300159195/README.md) :point_right: [islemtd3-hue](https://github.com/islemtd3-hue) <image src='https://avatars0.githubusercontent.com/u/261489005?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
+| 21 | [300159195](../300159195/README.md) :point_right: [islemtd3-hue](https://github.com/islemtd3-hue) <image src='https://avatars0.githubusercontent.com/u/261489005?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 22 | [300159203](../300159203/README.md) :point_right: [riadhsahraoui](https://github.com/riadhsahraoui) <image src='https://avatars0.githubusercontent.com/u/261489597?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
 | 23 | [300159437](../300159437/README.md) :point_right: [bob19142005](https://github.com/bob19142005) <image src='https://avatars0.githubusercontent.com/u/203893881?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
 | 24 | [300159463](../300159463/README.md) :point_right: [hammahichem99](https://github.com/hammahichem99) <image src='https://avatars0.githubusercontent.com/u/261489495?s=460&v=4' width=20 height=20></image> | :x: | :x: |
@@ -50,4 +50,4 @@
 | 31 | [300160504](../300160504/README.md) :point_right: [mmounir07](https://github.com/mmounir07) <image src='https://avatars0.githubusercontent.com/u/261492337?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
 | 32 | [300160733](../300160733/README.md) :point_right: [belhadiyanis200-a11y](https://github.com/belhadiyanis200-a11y) <image src='https://avatars0.githubusercontent.com/u/261489188?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 33 | [300160862](../300160862/README.md) :point_right: [cherifyamna](https://github.com/cherifyamna) <image src='https://avatars0.githubusercontent.com/u/261494322?s=460&v=4' width=20 height=20></image> | :x: | :x: |
-| :abacus: | \$\\frac{2}{34}\$ = 5.88% | \$\displaystyle\sum_{i=1}^{34} s_i\$ = 2 |
+| :abacus: | \$\\frac{3}{34}\$ = 8.82% | \$\displaystyle\sum_{i=1}^{34} s_i\$ = 3 |
