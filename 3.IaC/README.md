@@ -11,6 +11,22 @@
 | 7️⃣ | [:tada: Participation](.scripts/Participation-group7.md) | [:checkered_flag: Vérification](.scripts/Check-group7.md) |
 | 8️⃣ | [:tada: Participation](.scripts/Participation-group8.md) | [:checkered_flag: Vérification](.scripts/Check-group8.md) |
 
+## 🗄️ Rack 2️⃣
+
+| Rack | #️⃣ | Type de serveur      | Étiquette | Host IP                 | RAM (GB) | CPU | DD (GB) | OS                             | Services                                                 |
+| ---- | -: | -------------------- | --------- | ----------------------- | -------- | --- | ------- | ------------------------------ | -------------------------------------------------------- |
+| 2️⃣    | 34       | HP Proliant DL360 G6️⃣ | S18       | 10.7.237.22             | 28       | 16  | 273.4G     | —      | —     |
+| 2️⃣    | 33       | HP Proliant DL360 G6️⃣ | S19       | 10.7.237.7              | 16       | 16  | 273.4G     | —      | —     |
+| 2️⃣    | 32       | HP Proliant DL360 G6️⃣ | S37       | 10.7.237.13             | 64       | 16  | 273.4G  | —      | —     |
+| 2️⃣    | 31       | HP Proliant DL360 G6️⃣ | S39       | 10.7.237.35             | 28       | 16  | 273.4G     | —                           
+| 2️⃣    |          |
+| 2️⃣    | 28       | HP Proliant DL360 G6️⃣ | S21       | 10.7.237.19             | 36       | 16  | 273.4G     | —      | —     |
+| 2️⃣    | 27       | HP Proliant DL360 G6️⃣ | S25       | 10.7.237.24             | 56       | 16  | 273.4G     | —      | —     |
+| 2️⃣    | 25       | HP Proliant DL360 G6️⃣ | S17       | 10.7.237.28             | 48       | 16  | 273.4G     | —      | —     |
+| 2️⃣    | 26       | HP Proliant DL360 G6️⃣ | S27       | 10.7.237.34             | 44       | 16  | 273.4G     | —      | —     |
+
+
+
 ## 1. Introduction
 
 Traditionnellement, l’administration des systèmes se faisait **manuellement** :
