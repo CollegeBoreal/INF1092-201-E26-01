@@ -34,5 +34,5 @@
 | 1 | [300160504](../300160504/README.md) [<image src='https://avatars0.githubusercontent.com/u/261492337?s=460&v=4' width=20 height=20></image>](https://github.com/mmounir07) | :x: | :x: | :x: | 10.7.237.223 |
 | 2 | [300160733](../300160733/README.md) [<image src='https://avatars0.githubusercontent.com/u/261489188?s=460&v=4' width=20 height=20></image>](https://github.com/belhadiyanis200-a11y) | :x: | :x: | :x: | 10.7.237.224 |
 | 3 | [300160862](../300160862/README.md) [<image src='https://avatars0.githubusercontent.com/u/261494322?s=460&v=4' width=20 height=20></image>](https://github.com/cherifyamna) | :x: | :x: | :x: | 10.7.237.225 |
-| 4 | [300147253](../300147253/README.md) [<image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image>](https://github.com/octocat) | :x: | :x: | :x: | 10.7.237.226 |
+| 4 | [300155045](../300155045/README.md) [<image src='https://avatars0.githubusercontent.com/u/232956639?s=460&v=4' width=20 height=20></image>](https://github.com/chouaibait) | :x: | :x: | :x: | 10.7.237.226 |
 | :abacus: | \$\\frac{0}{5}\$ = 0% | \$\displaystyle\sum_{i=1}^{5} s_i\$ = 0 |
