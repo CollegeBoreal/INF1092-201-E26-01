@@ -25,7 +25,7 @@
 | 6 | [300153405](../300153405/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/261492660?s=460&v=4' width=20 height=20></image>](https://github.com/rekaikkhaled) | :2nd_place_medal: | :heavy_check_mark: |
 | 7 | [300153416](../300153416/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image>](https://github.com/rouabahkhalil28-crypto) | :2nd_place_medal: | :heavy_check_mark: |
 | 8 | [300155462](../300155462/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/231498971?s=460&v=4' width=20 height=20></image>](https://github.com/zakariamamssi05) | :2nd_place_medal: | :heavy_check_mark: |
-| 9 | [300156534](../300156534/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/261489191?s=460&v=4' width=20 height=20></image>](https://github.com/salhiwalid540-hue) | :2nd_place_medal: | :x: |
+| 9 | [300156534](../300156534/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/261489191?s=460&v=4' width=20 height=20></image>](https://github.com/salhiwalid540-hue) | :2nd_place_medal: | :heavy_check_mark: |
 | 10 | [300157250](../300157250/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/261491627?s=460&v=4' width=20 height=20></image>](https://github.com/jeanpi-erre01) | :1st_place_medal: | :heavy_check_mark: |
 | 11 | [300157298](../300157298/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/288085455?s=460&v=4' width=20 height=20></image>](https://github.com/amar20101999) | :x: | :x: |
 | 12 | [300157307](../300157307/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/261494517?s=460&v=4' width=20 height=20></image>](https://github.com/amaradjida7-hub) | :2nd_place_medal: | :x: |
@@ -39,7 +39,7 @@
 | 20 | [300159203](../300159203/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/261489597?s=460&v=4' width=20 height=20></image>](https://github.com/riadhsahraoui) | :2nd_place_medal: | :x: |
 | 21 | [300159437](../300159437/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/203893881?s=460&v=4' width=20 height=20></image>](https://github.com/bob19142005) | :1st_place_medal: | :heavy_check_mark: |
 | 22 | [300159463](../300159463/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/261489495?s=460&v=4' width=20 height=20></image>](https://github.com/hammahichem99) | :x: | :x: |
-| 23 | [300159693](../300159693/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/288084942?s=460&v=4' width=20 height=20></image>](https://github.com/mazigh-2000) | :2nd_place_medal: | :x: |
+| 23 | [300159693](../300159693/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/288084942?s=460&v=4' width=20 height=20></image>](https://github.com/mazigh-2000) | :2nd_place_medal: | :heavy_check_mark: |
 | 24 | [300159672](../300159672/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/233241856?s=460&v=4' width=20 height=20></image>](https://github.com/1999amadou03-star) | :2nd_place_medal: | :heavy_check_mark: |
 | 25 | [300159887](../300159887/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/261490027?s=460&v=4' width=20 height=20></image>](https://github.com/hammichebillal06-dot) | :x: | :x: |
 | 26 | [300159995](../300159995/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/261493465?s=460&v=4' width=20 height=20></image>](https://github.com/nidalon52-glitch) | :2nd_place_medal: | :heavy_check_mark: |
@@ -49,4 +49,4 @@
 | 30 | [300160733](../300160733/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/261489188?s=460&v=4' width=20 height=20></image>](https://github.com/belhadiyanis200-a11y) | :2nd_place_medal: | :x: |
 | 31 | [300160862](../300160862/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/261494322?s=460&v=4' width=20 height=20></image>](https://github.com/cherifyamna) | :1st_place_medal: | :heavy_check_mark: |
 | 32 | [300155045](../300155045/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/232956639?s=460&v=4' width=20 height=20></image>](https://github.com/chouaibait) | :2nd_place_medal: | :heavy_check_mark: |
-| :abacus: | \$\frac{19}{33}\$ = 57.58% | \$\displaystyle\sum_{i=1}^{33} s_i\$ = 19 |
+| :abacus: | \$\frac{21}{33}\$ = 63.64% | \$\displaystyle\sum_{i=1}^{33} s_i\$ = 21 |
