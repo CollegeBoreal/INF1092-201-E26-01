@@ -4,11 +4,11 @@
 # --------------------------------------
 
 param(
-    [ValidateSet(1,2,3,4)]
+    [ValidateSet(1,2,3,4,5,6,7,8)]
     [int]$Group = 1
 )
 
-# Import variables from another script (students.ps1)
+# Import variables
 . ../.scripts/students.ps1
 
 switch ($Group) {
@@ -16,6 +16,10 @@ switch ($Group) {
     2 { $ACTIVE_GROUP = $GROUP_2 }
     3 { $ACTIVE_GROUP = $GROUP_3 }
     4 { $ACTIVE_GROUP = $GROUP_4 }
+    5 { $ACTIVE_GROUP = $GROUP_5 }
+    6 { $ACTIVE_GROUP = $GROUP_6 }
+    7 { $ACTIVE_GROUP = $GROUP_7 }
+    8 { $ACTIVE_GROUP = $GROUP_8 }
     default { throw "Groupe invalide" }
 }
 
@@ -24,6 +28,10 @@ switch ($Group) {
     2 { $ACTIVE_SERVERS = $SERVER_GROUP_2 }
     3 { $ACTIVE_SERVERS = $SERVER_GROUP_3 }
     4 { $ACTIVE_SERVERS = $SERVER_GROUP_4 }
+    5 { $ACTIVE_SERVERS = $SERVER_GROUP_5 }
+    6 { $ACTIVE_SERVERS = $SERVER_GROUP_6 }
+    7 { $ACTIVE_SERVERS = $SERVER_GROUP_7 }
+    8 { $ACTIVE_SERVERS = $SERVER_GROUP_8 }
     default { throw "active server Groupe invalide" }
 }
 
@@ -32,6 +40,10 @@ switch ($Group) {
     2 { $PROXMOX_SERVER = $PROXMOX_GROUP_2 }
     3 { $PROXMOX_SERVER = $PROXMOX_GROUP_3 }
     4 { $PROXMOX_SERVER = $PROXMOX_GROUP_4 }
+    5 { $PROXMOX_SERVER = $PROXMOX_GROUP_5 }
+    6 { $PROXMOX_SERVER = $PROXMOX_GROUP_6 }
+    7 { $PROXMOX_SERVER = $PROXMOX_GROUP_7 }
+    8 { $PROXMOX_SERVER = $PROXMOX_GROUP_8 }
     default { throw "Proxmox server Groupe invalide" }
 }
 
@@ -40,6 +52,10 @@ switch ($Group) {
     2 { $TOFU_SECRET = $TOFU_SECRET_GROUP_2 }
     3 { $TOFU_SECRET = $TOFU_SECRET_GROUP_3 }
     4 { $TOFU_SECRET = $TOFU_SECRET_GROUP_4 }
+    5 { $TOFU_SECRET = $TOFU_SECRET_GROUP_5 }
+    6 { $TOFU_SECRET = $TOFU_SECRET_GROUP_6 }
+    7 { $TOFU_SECRET = $TOFU_SECRET_GROUP_7 }
+    8 { $TOFU_SECRET = $TOFU_SECRET_GROUP_8 }
     default { throw "Tofu Secret Groupe invalide" }
 }
 
