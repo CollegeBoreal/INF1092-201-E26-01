@@ -42,7 +42,7 @@ $STUDENTS = @(
 # --------------------------------------
 
 $TOTAL = $STUDENTS.Count
-$GROUP_SIZE = [Math]::Ceiling([double]$TOTAL / 8)
+$GROUP_SIZE = 4
 
 $GROUP_1 = $STUDENTS[0..($GROUP_SIZE - 1)]
 $GROUP_2 = $STUDENTS[(1 * $GROUP_SIZE)..(2 * $GROUP_SIZE - 1)]
