@@ -6,6 +6,10 @@
 | 2️⃣ | [:tada: Participation](.scripts/Participation-group2.md) | [:checkered_flag: Vérification](.scripts/Check-group2.md) |
 | 3️⃣ | [:tada: Participation](.scripts/Participation-group3.md) | [:checkered_flag: Vérification](.scripts/Check-group3.md) |
 | 4️⃣ | [:tada: Participation](.scripts/Participation-group4.md) | [:checkered_flag: Vérification](.scripts/Check-group4.md) |
+| 5️⃣ | [:tada: Participation](.scripts/Participation-group5.md) | [:checkered_flag: Vérification](.scripts/Check-group5.md) |
+| 6️⃣ | [:tada: Participation](.scripts/Participation-group6.md) | [:checkered_flag: Vérification](.scripts/Check-group6.md) |
+| 7️⃣ | [:tada: Participation](.scripts/Participation-group7.md) | [:checkered_flag: Vérification](.scripts/Check-group7.md) |
+| 8️⃣ | [:tada: Participation](.scripts/Participation-group8.md) | [:checkered_flag: Vérification](.scripts/Check-group8.md) |
 
 ## 1. Introduction
 
