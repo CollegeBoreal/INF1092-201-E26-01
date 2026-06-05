@@ -1,4 +1,4 @@
-# Participation au 05-06-2026 04:12
+# Participation au 05-06-2026 04:28
 
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
@@ -22,7 +22,7 @@
 | 3 | [300150396](../300150396/README.md) :point_right: [ibkourouma](https://github.com/ibkourouma) <image src='https://avatars0.githubusercontent.com/u/232939321?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 4 | [300151722](../300151722/README.md) :point_right: [islamoustani5-collab](https://github.com/islamoustani5-collab) <image src='https://avatars0.githubusercontent.com/u/261488966?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 5 | [300152004](../300152004/README.md) :point_right: [danielmananga](https://github.com/danielmananga) <image src='https://avatars0.githubusercontent.com/u/218153814?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
-| 6 | [300153405](../300153405/README.md) :point_right: [rekaikkhaled](https://github.com/rekaikkhaled) <image src='https://avatars0.githubusercontent.com/u/261492660?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
+| 6 | [300153405](../300153405/README.md) :point_right: [rekaikkhaled](https://github.com/rekaikkhaled) <image src='https://avatars0.githubusercontent.com/u/261492660?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 7 | [300153416](../300153416/README.md) :point_right: [rouabahkhalil28-crypto](https://github.com/rouabahkhalil28-crypto) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 8 | [300155462](../300155462/README.md) :point_right: [zakariamamssi05](https://github.com/zakariamamssi05) <image src='https://avatars0.githubusercontent.com/u/231498971?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 9 | [300156534](../300156534/README.md) :point_right: [salhiwalid540-hue](https://github.com/salhiwalid540-hue) <image src='https://avatars0.githubusercontent.com/u/261489191?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
@@ -49,4 +49,4 @@
 | 30 | [300160733](../300160733/README.md) :point_right: [belhadiyanis200-a11y](https://github.com/belhadiyanis200-a11y) <image src='https://avatars0.githubusercontent.com/u/261489188?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 31 | [300160862](../300160862/README.md) :point_right: [cherifyamna](https://github.com/cherifyamna) <image src='https://avatars0.githubusercontent.com/u/261494322?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 32 | [300155045](../300155045/README.md) :point_right: [chouaibait](https://github.com/chouaibait) <image src='https://avatars0.githubusercontent.com/u/232956639?s=460&v=4' width=20 height=20></image> | :x: | :x: |
-| :abacus: | \$\\frac{7}{33}\$ = 21.21% | \$\displaystyle\sum_{i=1}^{33} s_i\$ = 7 |
+| :abacus: | \$\\frac{8}{33}\$ = 24.24% | \$\displaystyle\sum_{i=1}^{33} s_i\$ = 8 |
