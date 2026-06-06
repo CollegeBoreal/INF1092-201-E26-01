@@ -1,4 +1,7 @@
-Rapport d'atelier - Infrastructure as a Code  
+Rapport d'atelier - Infrastructure as a Code
+- ID : 300124366  
+- Projet : 3.IaC  
+- Cours : INF1092-201-E26-01  
 
 Après avoir finalisé les matériels, on a procédé à la phase de l'installattion du système d'exploitation.
 Nous avons d'abord vérifié les composantes internes du serveur (processeurs, mémoire RAM, disques durs, etc.) avant de raccorder les périphériques essentiels (écran, clavier, souris) ainsi que les cables d'alimentation.
