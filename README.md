@@ -1,7 +1,7 @@
 # INF1092-201-E26-01 (Mardi 12H30 S208)
 Introduction à l'administration des systèmes
 
-<image src=image_0.jpg width='50%' height='50%' > </image>
+<image src=images/image_0.jpg width='50%' height='50%' > </image>
 
 ## :date: [Épreuves](.epreuves)
 
@@ -16,10 +16,11 @@ Introduction à l'administration des systèmes
 
 ## :one: [Devoirs](Devoirs)
 
-|  :hash: | Date   | Cours                                  | 🎉 Participations                            |
-|---------|--------|:---------------------------------------|:---------------------------------------------|
-| :one:   | 11-Mai | [0.PlanDeCours](0.PlanDeCours)         | [🎉](0.PlanDeCours/.scripts/Participation.md) |
-| :two:   | 19-Mai | [1.Programmation](0.PlanDeCours)         | [🎉](1.Programmation/1.IDE/.scripts/Participation.md) |
+|  :hash: | Date   | Cours                                  | 🎉 Participations                                     |
+|---------|--------|:-----------------------------------------------------|:----------------------------------------------------- |
+| :one:   | 11-Mai | [0.PlanDeCours](0.PlanDeCours)                       | [🎉](0.PlanDeCours/.scripts/Participation.md)         |
+| :two:   | 18-Mai | [1.Programmation/1.IDE](1.Programmation/1.IDE)       | [🎉](1.Programmation/1.IDE/.scripts/Participation.md) |
+| :three: | 25-Mai | [3.IaC](3.IaC)                                       | [🎉 1️⃣ ](3.IaC/.scripts/Participation-group1.md) :curly_loop: [🎉 :two:](3.IaC/.scripts/Participation-group2.md) :curly_loop: [🎉 3️⃣ ](3.IaC/.scripts/Participation-group3.md) :curly_loop: [🎉 4️⃣](3.IaC/.scripts/Participation-group4.md) |
 
 
 

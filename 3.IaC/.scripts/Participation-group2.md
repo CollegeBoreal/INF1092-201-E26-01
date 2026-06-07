@@ -18,7 +18,7 @@
 
 | Proxmox Serveur                                     | User/Pwd         |
 |-----------------------------------------------------|------------------|
-| [10.7.237.40](https://10.7.237.40:8006) | root/Boreal@2️⃣02️⃣6 |
+| [10.7.237.7](https://10.7.237.7:8006) | root/Boreal@2️⃣02️⃣6 |
 
 
 | TOFU Credentials                                    | :closed_lock_with_key: Secret |
@@ -30,13 +30,8 @@
 
 |:hash:| Boréal :id:                | README.md | images | main.tf | :link: IP |
 |------|----------------------------|-----------|--------|---------|------------|
-| 0 | [300155045](../300155045/README.md) [<image src='https://avatars0.githubusercontent.com/u/232956639?s=460&v=4' width=20 height=20></image>](https://github.com/chouaibait) | :x: | :x: | :x: | 10.7.237.203 |
-| 1 | [300155462](../300155462/README.md) [<image src='https://avatars0.githubusercontent.com/u/231498971?s=460&v=4' width=20 height=20></image>](https://github.com/zakariamamssi05) | :x: | :x: | :x: | 10.7.237.204 |
-| 2 | [300156534](../300156534/README.md) [<image src='https://avatars0.githubusercontent.com/u/261489191?s=460&v=4' width=20 height=20></image>](https://github.com/salhiwalid540-hue) | :x: | :x: | :x: | 10.7.237.205 |
-| 3 | [300157250](../300157250/README.md) [<image src='https://avatars0.githubusercontent.com/u/261491627?s=460&v=4' width=20 height=20></image>](https://github.com/jeanpi-erre01) | :x: | :x: | :x: | 10.7.237.206 |
-| 4 | [300157298](../300157298/README.md) [<image src='https://avatars0.githubusercontent.com/u/288085455?s=460&v=4' width=20 height=20></image>](https://github.com/amar20101999) | :x: | :x: | :x: | 10.7.237.207 |
-| 5 | [300157307](../300157307/README.md) [<image src='https://avatars0.githubusercontent.com/u/261494517?s=460&v=4' width=20 height=20></image>](https://github.com/amaradjida7-hub) | :x: | :x: | :x: | 10.7.237.208 |
-| 6 | [300157423](../300157423/README.md) [<image src='https://avatars0.githubusercontent.com/u/261497291?s=460&v=4' width=20 height=20></image>](https://github.com/gaya-994) | :x: | :x: | :x: | 10.7.237.209 |
-| 7 | [300157606](../300157606/README.md) [<image src='https://avatars0.githubusercontent.com/u/261497731?s=460&v=4' width=20 height=20></image>](https://github.com/ouahiba1994) | :x: | :x: | :x: | 10.7.237.210 |
-| 8 | [300157727](../300157727/README.md) [<image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image>](https://github.com/rayan23082001) | :x: | :x: | :x: | 10.7.237.211 |
-| :abacus: | \$\\frac{0}{9}\$ = 0% | \$\displaystyle\sum_{i=1}^{9} s_i\$ = 0 |
+| 0 | [300151722](../300151722/README.md) [<image src='https://avatars0.githubusercontent.com/u/261488966?s=460&v=4' width=20 height=20></image>](https://github.com/islamoustani5-collab) | :x: | :x: | :x: | 10.7.237.198 |
+| 1 | [300152004](../300152004/README.md) [<image src='https://avatars0.githubusercontent.com/u/218153814?s=460&v=4' width=20 height=20></image>](https://github.com/danielmananga) | :x: | :x: | :x: | 10.7.237.199 |
+| 2 | [300153405](../300153405/README.md) [<image src='https://avatars0.githubusercontent.com/u/261492660?s=460&v=4' width=20 height=20></image>](https://github.com/rekaikkhaled) | :x: | :x: | :x: | 10.7.237.200 |
+| 3 | [300153416](../300153416/README.md) [<image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image>](https://github.com/rouabahkhalil28-crypto) | :x: | :x: | :x: | 10.7.237.201 |
+| :abacus: | \$\\frac{0}{4}\$ = 0% | \$\displaystyle\sum_{i=1}^{4} s_i\$ = 0 |

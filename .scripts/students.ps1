@@ -6,12 +6,10 @@ $STUDENTS = @(
 "300147253|octocat|583231"
 "300147891|amadbarry96|261496046"
 "300150396|ibkourouma|232939321"
-"300151535|moudiraghilas-cmyk|262721627"
 "300151722|islamoustani5-collab|261488966"
 "300152004|danielmananga|218153814"
 "300153405|rekaikkhaled|261492660"
 "300153416|rouabahkhalil28-crypto|583231"
-"300155045|chouaibait|232956639"
 "300155462|zakariamamssi05|231498971"
 "300156534|salhiwalid540-hue|261489191"
 "300157250|jeanpi-erre01|261491627"
@@ -36,22 +34,24 @@ $STUDENTS = @(
 "300160504|mmounir07|261492337"
 "300160733|belhadiyanis200-a11y|261489188"
 "300160862|cherifyamna|261494322"
+"300155045|chouaibait|232956639"
 )
 
 # --------------------------------------
-# Division des étudiants en 3 groupes
+# Division des étudiants en 8 groupes
 # --------------------------------------
 
 $TOTAL = $STUDENTS.Count
-$GROUP_SIZE = [Math]::Ceiling($TOTAL / 4)
-
-$TOTAL = $STUDENTS.Count
-$GROUP_SIZE = [Math]::Ceiling($TOTAL / 4)
+$GROUP_SIZE = 4
 
 $GROUP_1 = $STUDENTS[0..($GROUP_SIZE - 1)]
-$GROUP_2 = $STUDENTS[$GROUP_SIZE..(2 * $GROUP_SIZE - 1)]
+$GROUP_2 = $STUDENTS[(1 * $GROUP_SIZE)..(2 * $GROUP_SIZE - 1)]
 $GROUP_3 = $STUDENTS[(2 * $GROUP_SIZE)..(3 * $GROUP_SIZE - 1)]
-$GROUP_4 = $STUDENTS[(3 * $GROUP_SIZE)..($TOTAL - 1)]
+$GROUP_4 = $STUDENTS[(3 * $GROUP_SIZE)..(4 * $GROUP_SIZE - 1)]
+$GROUP_5 = $STUDENTS[(4 * $GROUP_SIZE)..(5 * $GROUP_SIZE - 1)]
+$GROUP_6 = $STUDENTS[(5 * $GROUP_SIZE)..(6 * $GROUP_SIZE - 1)]
+$GROUP_7 = $STUDENTS[(6 * $GROUP_SIZE)..(7 * $GROUP_SIZE - 1)]
+$GROUP_8 = $STUDENTS[(7 * $GROUP_SIZE)..($TOTAL - 1)]
 
 # --------------------------------------
 # Division des VMs en 3 groupes
@@ -88,31 +88,49 @@ $SERVERS = @(
 "10.7.237.221"
 "10.7.237.222"
 "10.7.237.223"
+"10.7.237.224"
+"10.7.237.225"
+"10.7.237.226"
 )
 
 $SERVER_GROUP_1 = $SERVERS[0..($GROUP_SIZE - 1)]
-$SERVER_GROUP_2 = $SERVERS[$GROUP_SIZE..(2 * $GROUP_SIZE - 1)]
+$SERVER_GROUP_2 = $SERVERS[(1 * $GROUP_SIZE)..(2 * $GROUP_SIZE - 1)]
 $SERVER_GROUP_3 = $SERVERS[(2 * $GROUP_SIZE)..(3 * $GROUP_SIZE - 1)]
-$SERVER_GROUP_4 = $SERVERS[(3 * $GROUP_SIZE)..($TOTAL - 1)]
+$SERVER_GROUP_4 = $SERVERS[(3 * $GROUP_SIZE)..(4 * $GROUP_SIZE - 1)]
+$SERVER_GROUP_5 = $SERVERS[(4 * $GROUP_SIZE)..(5 * $GROUP_SIZE - 1)]
+$SERVER_GROUP_6 = $SERVERS[(5 * $GROUP_SIZE)..(6 * $GROUP_SIZE - 1)]
+$SERVER_GROUP_7 = $SERVERS[(6 * $GROUP_SIZE)..(7 * $GROUP_SIZE - 1)]
+$SERVER_GROUP_8 = $SERVERS[(7 * $GROUP_SIZE)..($TOTAL - 1)]
 
-# --------------------------------------
-# | 2    | 28       | HP Proliant DL360 G6️⃣ | S25       | 10.7.237.24             | 56       | 16  | 272     | —                              | —                                                        |
-# | 2    | 27       | HP Proliant DL360 G7️⃣ | S26       | 10.7.237.40             | 48       | 16  | 272     | —                              | —                                                        |
-# | 2    | 26       | HP Proliant DL360 G6️⃣ | S27       | 10.7.237.34             | 44       | 16  | 272     | —                              | —                                                        |
-# | 2    | 25       | HP Proliant DL360 G7️⃣ | S28       | 10.7.237.11             | 64       | 16  | 273     | —                              
-# --------------------------------------
+# 2️⃣	34	HP Proliant DL360 G6️⃣	S18	10.7.237.22	28	16	272	—	—
+# 2️⃣	33	HP Proliant DL360 G6️⃣	S19	10.7.237.7	16	16	272	—	—
+# 2️⃣	32	HP Proliant DL360 G6️⃣	S37	10.7.237.13	64	16	273.4G	—	—
+# 2️⃣	31	HP Proliant DL360 G6️⃣	S39	10.7.237.35	28	16	409	—	
+# 2️⃣									
+# 2️⃣	28	HP Proliant DL360 G6️⃣	S21	10.7.237.19	36	16	272	—	—
+# 2️⃣	27	HP Proliant DL360 G6️⃣	S25	10.7.237.24	56	16	272	—	—
+# 2️⃣	25	HP Proliant DL360 G6️⃣	S17	10.7.237.28	48	16	409	—	—
+# 2️⃣	26	HP Proliant DL360 G6️⃣	S27	10.7.237.34	44	16	272	—	—
 
 $PROXMOX_SERVERS = @(
+"10.7.237.22"
+"10.7.237.7"
+"10.7.237.13"
+"10.7.237.35"
+"10.7.237.19"
 "10.7.237.24"
-"10.7.237.40"
+"10.7.237.28"
 "10.7.237.34"
-"10.7.237.11"
 )
 
 $PROXMOX_GROUP_1 = $PROXMOX_SERVERS[0] 
 $PROXMOX_GROUP_2 = $PROXMOX_SERVERS[1] 
 $PROXMOX_GROUP_3 = $PROXMOX_SERVERS[2] 
 $PROXMOX_GROUP_4 = $PROXMOX_SERVERS[3] 
+$PROXMOX_GROUP_5 = $PROXMOX_SERVERS[4] 
+$PROXMOX_GROUP_6 = $PROXMOX_SERVERS[5] 
+$PROXMOX_GROUP_7 = $PROXMOX_SERVERS[6] 
+$PROXMOX_GROUP_8 = $PROXMOX_SERVERS[7] 
 
 # --------------------------------------
 # pm_token_id     = "tofu@pve!opentofu"
@@ -125,14 +143,22 @@ $TOFU_SECRETS = @(
 "55dccf39-a3db-4bad-8a28-954addb13739"
 "63cd5a0b-24a0-42a1-9ce3-993a2d9de8dd"
 "63cd5a0b-24a0-42a1-9ce3-993a2d9de8dd"
+"4fa24fc3-bd8c-4916-ba6e-09a8aecc3b00"
+"55dccf39-a3db-4bad-8a28-954addb13739"
+"63cd5a0b-24a0-42a1-9ce3-993a2d9de8dd"
+"63cd5a0b-24a0-42a1-9ce3-993a2d9de8dd"
 )
 
 $TOFU_SECRET_GROUP_1 = $TOFU_SECRETS[0] 
 $TOFU_SECRET_GROUP_2 = $TOFU_SECRETS[1] 
 $TOFU_SECRET_GROUP_3 = $TOFU_SECRETS[2] 
 $TOFU_SECRET_GROUP_4 = $TOFU_SECRETS[3] 
+$TOFU_SECRET_GROUP_5 = $TOFU_SECRETS[4] 
+$TOFU_SECRET_GROUP_6 = $TOFU_SECRETS[5] 
+$TOFU_SECRET_GROUP_7 = $TOFU_SECRETS[6] 
+$TOFU_SECRET_GROUP_8 = $TOFU_SECRETS[7] 
 
 $PK_PROF="b300098957@ramena"
 
-# https://${env:LMS_URL}/course/view.php?id=3
-$LMS_COURSE=3
+# https://${env:LMS_URL}/course/view.php?id=6
+$LMS_COURSE=6
