@@ -22,4 +22,18 @@ Les capture d'écran suivantes documentent chronologiquement cette phase de dém
 <img width="1600" height="1200" alt="WhatsApp Image 2026-05-26 at 4 27 31 PM (1)" src="https://github.com/user-attachments/assets/c9525ea4-1648-4ffa-98fa-a7636b4a43a6" />
 
 
+Les images de la deuxième séance d'atelier
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-06-03 at 2 20 02 PM - Copy - Copy - Copy" src="https://github.com/user-attachments/assets/36465cc5-4764-4d94-9dbb-ebbe2aca19c4" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-06-03 at 2 20 02 PM (1)" src="https://github.com/user-attachments/assets/4928d9ae-ff14-4165-98de-1f4cb106b5f1" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-06-03 at 2 20 02 PM (2)" src="https://github.com/user-attachments/assets/22d4e0d0-1cdf-4243-b681-bc91f47a054c" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-06-03 at 2 20 02 PM (3)" src="https://github.com/user-attachments/assets/6b0943c1-d481-4e76-8d7c-d307ad3594b2" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-06-03 at 2 20 03 PM (1) - Copy" src="https://github.com/user-attachments/assets/d013bccb-da19-4e52-8a97-ad6ca0a29cda" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-06-03 at 2 20 03 PM (2) - Copy" src="https://github.com/user-attachments/assets/c88e8fbd-fdbe-4efc-8e7d-37458af851a5" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-06-03 at 2 20 03 PM (2) - Copy" src="https://github.com/user-attachments/assets/85deb7ef-6768-423b-aafe-0ca5cffe96ba" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-06-03 at 2 20 03 PM (4)" src="https://github.com/user-attachments/assets/91bc7d67-4b4f-417b-b8bb-2150193b820f" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-06-03 at 2 20 03 PM (5)" src="https://github.com/user-attachments/assets/edb49666-e2af-418a-9a31-c0fe375f7f59" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-06-03 at 2 20 03 PM" src="https://github.com/user-attachments/assets/c7fb8b66-d87d-4758-b2f4-a6ee38ba7fed" />
+
+
 
