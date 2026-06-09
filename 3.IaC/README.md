@@ -1,4 +1,4 @@
-# 🏗️ Infrastructure as Code (IaC)
+# 🏗️ Infrastructure
 
 | #️⃣ | Participations | Vérifications |
 |-|-|-| 
