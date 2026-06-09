@@ -33,5 +33,5 @@
 | 0 | [300159203](../300159203/README.md) [<image src='https://avatars0.githubusercontent.com/u/261489597?s=460&v=4' width=20 height=20></image>](https://github.com/riadhsahraoui) | :2nd_place_medal: | :heavy_check_mark: | :x: | 10.7.237.214 |
 | 1 | [300159437](../300159437/README.md) [<image src='https://avatars0.githubusercontent.com/u/203893881?s=460&v=4' width=20 height=20></image>](https://github.com/bob19142005) | :1st_place_medal: | :heavy_check_mark: | :heavy_check_mark: | 10.7.237.215 |
 | 2 | [300159463](../300159463/README.md) [<image src='https://avatars0.githubusercontent.com/u/261489495?s=460&v=4' width=20 height=20></image>](https://github.com/hammahichem99) | :x: | :x: | :x: | 10.7.237.216 |
-| 3 | [300159693](../300159693/README.md) [<image src='https://avatars0.githubusercontent.com/u/288084942?s=460&v=4' width=20 height=20></image>](https://github.com/mazigh-2000) | :2nd_place_medal: | :x: | :x: | 10.7.237.217 |
+| 3 | [300159693](../300159693/README.md) [<image src='https://avatars0.githubusercontent.com/u/288084942?s=460&v=4' width=20 height=20></image>](https://github.com/mazigh-2000) | :2nd_place_medal: | :x: | :heavy_check_mark: | 10.7.237.217 |
 | :abacus: | \$\\frac{3}{4}\$ = 75% | \$\displaystyle\sum_{i=1}^{4} s_i\$ = 3 |
