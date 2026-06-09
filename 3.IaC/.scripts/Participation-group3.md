@@ -31,7 +31,7 @@
 |:hash:| Boréal :id:                | README.md | images | main.tf | :link: IP |
 |------|----------------------------|-----------|--------|---------|------------|
 | 0 | [300155462](../300155462/README.md) [<image src='https://avatars0.githubusercontent.com/u/231498971?s=460&v=4' width=20 height=20></image>](https://github.com/zakariamamssi05) | :x: | :x: | :x: | 10.7.237.202 |
-| 1 | [300156534](../300156534/README.md) [<image src='https://avatars0.githubusercontent.com/u/261489191?s=460&v=4' width=20 height=20></image>](https://github.com/salhiwalid540-hue) | :x: | :x: | :x: | 10.7.237.203 |
-| 2 | [300157250](../300157250/README.md) [<image src='https://avatars0.githubusercontent.com/u/261491627?s=460&v=4' width=20 height=20></image>](https://github.com/jeanpi-erre01) | :x: | :x: | :x: | 10.7.237.204 |
+| 1 | [300156534](../300156534/README.md) [<image src='https://avatars0.githubusercontent.com/u/261489191?s=460&v=4' width=20 height=20></image>](https://github.com/salhiwalid540-hue) | :1st_place_medal: | :x: | :x: | 10.7.237.203 |
+| 2 | [300157250](../300157250/README.md) [<image src='https://avatars0.githubusercontent.com/u/261491627?s=460&v=4' width=20 height=20></image>](https://github.com/jeanpi-erre01) | :x: | :heavy_check_mark: | :x: | 10.7.237.204 |
 | 3 | [300157298](../300157298/README.md) [<image src='https://avatars0.githubusercontent.com/u/288085455?s=460&v=4' width=20 height=20></image>](https://github.com/amar20101999) | :x: | :x: | :x: | 10.7.237.205 |
-| :abacus: | \$\\frac{0}{4}\$ = 0% | \$\displaystyle\sum_{i=1}^{4} s_i\$ = 0 |
+| :abacus: | \$\\frac{1}{4}\$ = 25% | \$\displaystyle\sum_{i=1}^{4} s_i\$ = 1 |
