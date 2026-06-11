@@ -20,6 +20,15 @@ RestartNeeded : False
 
 ```powershell
 Start-Service sshd
+```
+```
+WARNING: Waiting for service 'OpenSSH SSH Server (sshd)' to start...
+WARNING: Waiting for service 'OpenSSH SSH Server (sshd)' to start...
+WARNING: Waiting for service 'OpenSSH SSH Server (sshd)' to start...
+WARNING: Waiting for service 'OpenSSH SSH Server (sshd)' to start...
+```
+
+```powershell
 Set-Service -Name sshd -StartupType Automatic
 ```
 
