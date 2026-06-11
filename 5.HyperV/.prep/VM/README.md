@@ -78,3 +78,40 @@ VMName      SwitchName
 ------      ----------
 VM300098957 External
 ```
+
+```powershell
+$vm="VM300098957"
+$iso="D:\ISO\WindowsServer2022.iso"
+
+# 1. Créer la VM
+New-VM -Name $vm `
+  -MemoryStartupBytes 4GB `
+  -NewVHDPath "D:\VMs\$vm\$vm.vhdx" `
+  -NewVHDSizeBytes 100GB `
+  -SwitchName "External"
+
+# 2. CPU + virtualisation imbriquée
+Set-VMProcessor -VMName $vm -Count 2 -ExposeVirtualizationExtensions $true
+
+# 3. RAM dynamique (optionnel mais recommandé en lab)
+Set-VMMemory -VMName $vm `
+  -DynamicMemoryEnabled $true `
+  -MinimumBytes 2GB `
+  -MaximumBytes 6GB
+
+# 4. Ajouter lecteur DVD + ISO
+Add-VMDvdDrive -VMName $vm -Path $iso
+
+# 5. Mettre boot sur ISO
+Set-VMFirmware -VMName $vm `
+  -FirstBootDevice (Get-VMDvdDrive -VMName $vm)
+
+# (Option Linux)
+# Set-VMFirmware -VMName $vm -EnableSecureBoot Off
+
+# 6. Démarrer la VM
+Start-VM -Name $vm
+
+# 7. Vérifier
+Get-VM -Name $vm
+```
