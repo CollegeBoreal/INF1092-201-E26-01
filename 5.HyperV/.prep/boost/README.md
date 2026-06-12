@@ -154,6 +154,8 @@ CPU = limite réelle ⚠️
 
 # 🧰 winsat - (Windows System Assessment Tool)
 
+$\color{green}C:$
+
 ```bash
  winsat disk -drive D
 ```
