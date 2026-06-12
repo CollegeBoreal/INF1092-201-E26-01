@@ -9,7 +9,7 @@ New-VM -Name $vm `
   -Generation 1 `
   -MemoryStartupBytes 4GB `
   -NewVHDPath "D:\VMs\$vm\$vm.vhdx" `
-  -NewVHDSizeBytes 100GB `
+  -NewVHDSizeBytes 60GB `
   -SwitchName "External"
 
 # 2. CPU
