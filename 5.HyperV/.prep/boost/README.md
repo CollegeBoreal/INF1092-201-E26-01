@@ -152,6 +152,42 @@ CPU = limite réelle ⚠️
 
 ***
 
+# 🐓 winsat
+
+$\color{red}C:$
+
+```bash
+ winsat disk -drive C
+```
+<details><summary>🪵 Log</summary>
+Windows System Assessment Tool
+> Running: Feature Enumeration ''
+> Run Time 00:00:00.00
+> Running: Storage Assessment '-drive C -ran -read'
+> Run Time 00:00:03.66
+> Running: Storage Assessment '-drive C -seq -read'
+> Run Time 00:00:11.27
+> Running: Storage Assessment '-drive C -seq -write'
+> Run Time 00:00:25.28
+> Running: Storage Assessment '-drive C -flush -seq'
+> Run Time 00:00:17.00
+> Running: Storage Assessment '-drive C -flush -ran'
+> Run Time 00:00:21.67
+> Dshow Video Encode Time                      0.00000 s
+> Dshow Video Decode Time                      0.00000 s
+> Media Foundation Decode Time                 0.00000 s
+> Disk  Random 16.0 Read                       6.51 MB/s          5.2
+> Disk  Sequential 64.0 Read                   232.98 MB/s          7.4
+> Disk  Sequential 64.0 Write                  30.57 MB/s          4.4
+> Average Read Time with Sequential Writes     7.012 ms          5.3
+> Latency: 95th Percentile                     15.266 ms          4.9
+> Latency: Maximum                             38.574 ms          7.9
+> Average Read Time with Random Writes         9.216 ms          4.7
+> Total Run Time 00:01:19.61
+```
+
+</details>
+
 This output is **gold 🔥** because it shows exactly **why NVMe is saving your lab**.
 
 Let’s compare **C (RAID SAS)** vs **D (NVMe)** in *your real server*.
