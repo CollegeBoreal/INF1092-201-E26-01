@@ -18,20 +18,18 @@
 
 | Proxmox Serveur                                     | User/Pwd         |
 |-----------------------------------------------------|------------------|
-| [10.7.237.28](https://10.7.237.28:8006) | root/Boreal@2️⃣02️⃣6 |
-
+| [10.7.237.28](https://10.7.237.28:8006) | root/Boreal@2026 |
 
 | TOFU Credentials                                    | :closed_lock_with_key: Secret |
-|-----------------------------------------------------|------------------|
-| tofu@pve!opentofu                                   | 63cd5a0b-24a0-42a1-9ce3-993a2d9de8dd   |
-
+|-----------------------------------------------------|------------------------------|
+| tofu@pve!opentofu                                   | 63cd5a0b-24a0-42a1-9ce3-993a2d9de8dd               |
 
 ## :a: Présence
 
-|:hash:| Boréal :id:                | README.md | images | main.tf | :link: IP |
-|------|----------------------------|-----------|--------|---------|------------|
-| 0 | [300159672](../300159672/README.md) [<image src='https://avatars0.githubusercontent.com/u/233241856?s=460&v=4' width=20 height=20></image>](https://github.com/1999amadou03-star) | :x: | :x: | :x: | 10.7.237.218 |
-| 1 | [300159887](../300159887/README.md) [<image src='https://avatars0.githubusercontent.com/u/261490027?s=460&v=4' width=20 height=20></image>](https://github.com/hammichebillal06-dot) | :1st_place_medal: | :x: | :x: | 10.7.237.219 |
-| 2 | [300159995](../300159995/README.md) [<image src='https://avatars0.githubusercontent.com/u/261493465?s=460&v=4' width=20 height=20></image>](https://github.com/nidalon52-glitch) | :x: | :x: | :x: | 10.7.237.220 |
-| 3 | [300160006](../300160006/README.md) [<image src='https://avatars0.githubusercontent.com/u/261489041?s=460&v=4' width=20 height=20></image>](https://github.com/maimouna247) | :1st_place_medal: | :heavy_check_mark: | :x: | 10.7.237.221 |
+|:hash:| Boréal :id: | README.md | images | main.tf | :link: IP |
+|------|-------------|-----------|--------|---------|------------|
+| 0 | [300159672](../300159672/README.md) [<img src='https://avatars.githubusercontent.com/u/=40' width=20 height=20>](https://github.com/1999amadou03-star) | :x: | :x: | :x: | 10.7.237.218 |
+| 1 | [300159887](../300159887/README.md) [<img src='https://avatars.githubusercontent.com/u/=40' width=20 height=20>](https://github.com/hammichebillal06-dot) | :1st_place_medal: | :x: | :x: | 10.7.237.219 |
+| 2 | [300159995](../300159995/README.md) [<img src='https://avatars.githubusercontent.com/u/=40' width=20 height=20>](https://github.com/nidalon52-glitch) | :x: | :x: | :x: | 10.7.237.220 |
+| 3 | [300160006](../300160006/README.md) [<img src='https://avatars.githubusercontent.com/u/=40' width=20 height=20>](https://github.com/maimouna247) | :1st_place_medal: | :heavy_check_mark: | :x: | 10.7.237.221 |
 | :abacus: | \$\\frac{2}{4}\$ = 50% | \$\displaystyle\sum_{i=1}^{4} s_i\$ = 2 |

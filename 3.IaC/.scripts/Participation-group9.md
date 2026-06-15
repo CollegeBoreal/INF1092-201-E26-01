@@ -1,4 +1,4 @@
-# Participation – Groupe 1
+# Participation – Groupe 9
 
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
@@ -18,18 +18,15 @@
 
 | Proxmox Serveur                                     | User/Pwd         |
 |-----------------------------------------------------|------------------|
-| [10.7.237.22](https://10.7.237.22:8006) | root/Boreal@2026 |
+| [](https://:8006) | root/Boreal@2026 |
 
 | TOFU Credentials                                    | :closed_lock_with_key: Secret |
 |-----------------------------------------------------|------------------------------|
-| tofu@pve!opentofu                                   | 4fa24fc3-bd8c-4916-ba6e-09a8aecc3b00               |
+| tofu@pve!opentofu                                   |                |
 
 ## :a: Présence
 
 |:hash:| Boréal :id: | README.md | images | main.tf | :link: IP |
 |------|-------------|-----------|--------|---------|------------|
-| 0 | [300124366](../300124366/README.md) [<img src='https://avatars.githubusercontent.com/u/=40' width=20 height=20>](https://github.com/rb0980h-dot) | :1st_place_medal: | :heavy_check_mark: | :x: | 10.7.237.194 |
-| 1 | [300147253](../300147253/README.md) [<img src='https://avatars.githubusercontent.com/u/=40' width=20 height=20>](https://github.com/octocat) | :x: | :x: | :x: | 10.7.237.195 |
-| 2 | [300147891](../300147891/README.md) [<img src='https://avatars.githubusercontent.com/u/=40' width=20 height=20>](https://github.com/amadbarry96) | :x: | :x: | :x: | 10.7.237.196 |
-| 3 | [300150396](../300150396/README.md) [<img src='https://avatars.githubusercontent.com/u/=40' width=20 height=20>](https://github.com/ibkourouma) | :x: | :x: | :x: | 10.7.237.197 |
-| :abacus: | \$\\frac{1}{4}\$ = 25% | \$\displaystyle\sum_{i=1}^{4} s_i\$ = 1 |
+| 0 | [300155045](../300155045/README.md) [<img src='https://avatars.githubusercontent.com/u/=40' width=20 height=20>](https://github.com/chouaibait) | :x: | :x: | :x: | 10.7.237.226 |
+| :abacus: | \$\\frac{0}{1}\$ = 0% | \$\displaystyle\sum_{i=1}^{1} s_i\$ = 0 |
