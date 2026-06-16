@@ -1,3 +1,3 @@
 # 300160006
 
-![photo1](images/GALAX.jpg)
+![image alt](images/GALAX.jpg)
