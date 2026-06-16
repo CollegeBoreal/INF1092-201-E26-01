@@ -91,10 +91,10 @@ BOOT → PXE → INSTALL = connecter à Windows ✅
 |-|
 | <image src=images/signal-2026-06-16-101451_002.jpeg width=50% height=50% > </image> PXe boot |
 | <image src=images/signal-2026-06-16-101231_005.jpeg width=50% height=50% > </image>
+| <image src=images/signal-2026-06-16-101231_004.jpeg width=50% height=50% > </image>
 | <image src=images/signal-2026-06-16-101231_003.jpeg width=50% height=50% > </image>
 | <image src=images/signal-2026-06-16-101231_002.jpeg width=50% height=50% > </image>
 | <image src=images/signal-2026-06-16-101231_006.jpeg width=50% height=50% > </image>
-| <image src=images/signal-2026-06-16-101231_004.jpeg width=50% height=50% > </image>
 
 ## 🎯 Objectif
 
