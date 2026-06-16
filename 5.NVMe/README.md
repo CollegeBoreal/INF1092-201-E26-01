@@ -88,3 +88,4 @@ BOOT → PXE → INSTALL = connecter à Windows ✅
 
 # [NVMe](.prep/NVMe)
 
+# [4.Windows#%EF%B8%8F-5-post-install-ultra-important-lab](../4.Windows#%EF%B8%8F-5-post-install-ultra-important-lab)
