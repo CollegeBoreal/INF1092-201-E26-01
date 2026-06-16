@@ -1,4 +1,4 @@
-# Participation au 16-06-2026 05:22
+# Participation au 16-06-2026 05:23
 
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
@@ -40,7 +40,7 @@
 | 21 | [300159437](../300159437/README.md) :point_right: [bob19142005](https://github.com/bob19142005) <image src='https://avatars0.githubusercontent.com/u/203893881?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
 | 22 | [300159463](../300159463/README.md) :point_right: [hammahichem99](https://github.com/hammahichem99) <image src='https://avatars0.githubusercontent.com/u/261489495?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
 | 23 | [300159693](../300159693/README.md) :point_right: [mazigh-2000](https://github.com/mazigh-2000) <image src='https://avatars0.githubusercontent.com/u/288084942?s=460&v=4' width=20 height=20></image> | :x: | :x: |
-| 24 | [300159672](../300159672/README.md) :point_right: [1999amadou03-star](https://github.com/1999amadou03-star) <image src='https://avatars0.githubusercontent.com/u/233241856?s=460&v=4' width=20 height=20></image> | :x: | :x: |
+| 24 | [300159672](../300159672/README.md) :point_right: [1999amadou03-star](https://github.com/1999amadou03-star) <image src='https://avatars0.githubusercontent.com/u/233241856?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
 | 25 | [300159887](../300159887/README.md) :point_right: [hammichebillal06-dot](https://github.com/hammichebillal06-dot) <image src='https://avatars0.githubusercontent.com/u/261490027?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 26 | [300159995](../300159995/README.md) :point_right: [nidalon52-glitch](https://github.com/nidalon52-glitch) <image src='https://avatars0.githubusercontent.com/u/261493465?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 27 | [300160006](../300160006/README.md) :point_right: [maimouna247](https://github.com/maimouna247) <image src='https://avatars0.githubusercontent.com/u/261489041?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
