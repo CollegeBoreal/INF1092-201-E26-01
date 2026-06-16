@@ -24,7 +24,7 @@ Introduction à l'administration des systèmes
 |         |       |                                                       | [🎉 5️⃣ ](3.IaC/.scripts/Participation-group5.md) :curly_loop: [🎉 6️⃣ ](3.IaC/.scripts/Participation-group6.md) :curly_loop: [🎉 7️⃣ ](3.IaC/.scripts/Participation-group7.md) :curly_loop: [🎉 8️⃣ ](3.IaC/.scripts/Participation-group8.md) :curly_loop: [🎉 9️⃣ ](3.IaC/.scripts/Participation-group9.md) |
 | :four: | 08-Jun | [4.Windows](4.Windows)                                       | [🎉 1️⃣ ](4.Windows/.scripts/Participation-group1.md) :curly_loop: [🎉 :two:](4.Windows/.scripts/Participation-group2.md) :curly_loop: [🎉 3️⃣ ](4.Windows/.scripts/Participation-group3.md) :curly_loop: [🎉 4️⃣](4.Windows/.scripts/Participation-group4.md) |
 |         |       |                                                       | [🎉 5️⃣ ](4.Windows/.scripts/Participation-group5.md) :curly_loop: [🎉 6️⃣ ](4.Windows/.scripts/Participation-group6.md) :curly_loop: [🎉 7️⃣ ](4.Windows/.scripts/Participation-group7.md) :curly_loop: [🎉 8️⃣ ](4.Windows/.scripts/Participation-group8.md) :curly_loop: [🎉 9️⃣ ](4.Windows/.scripts/Participation-group9.md) |
-
+| :five: | 15-Jun | [5.HyperV](5.HyperV)                                       | [🎉 1️⃣ ](5.HyperV/.scripts/Participation-group1.md) :curly_loop: [🎉 :two:](5.HyperV/.scripts/Participation-group2.md) :curly_loop: [🎉 3️⃣ ](5.HyperV/.scripts/Participation-group3.md) :curly_loop: [🎉 4️⃣](5.HyperV/.scripts/Participation-group4.md) |
 
 
 
