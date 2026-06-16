@@ -2,7 +2,7 @@
   Ce travail présente l’ensemble des étapes réalisées lors de l’installation, du diagnostic et de la configuration d’un serveur. L’objectif principal était de préparer un serveur pleinement fonctionnel en vérifiant son état matériel, puis en installant un système d’exploitation adapté.
 La première phase a consisté en une inspection complète du matériel. Les composants internes tels que les disques de stockage, la mémoire RAM, le processeur, la carte mère et les connexions d’alimentation ont été examinés afin de s’assurer de leur bon fonctionnement. Cette vérification initiale a permis d’identifier et de corriger d’éventuels problèmes pouvant empêcher le démarrage ou perturber le fonctionnement du serveur.Une fois cette inspection terminée, nous avons raccordé les périphériques essentiels (écran, clavier, souris) ainsi que les câbles d’alimentation.
 Après la mise sous tension, nous avons accédé à l’interface de gestion du serveur en entrant les identifiants requis. Une fois connectés, nous avons configuré l’ordre de démarrage afin que la machine boote sur la clé USB contenant l’installateur du système d’exploitation.
-Les captures d’écran fournies illustrent de manière chronologique cette phase de démarrage, l’accès au BIOS/UEFI et le lancement de l’installateur
+
 
 ![image alt](https://github.com/CollegeBoreal/INF1092-201-E26-01/blob/609c44e5801f2902b8ac672b7b50689e5a3506fa/3.IaC/300160006/images/WhatsApp%20Image%202026-06-07%20at%2020.12.28%20(1).jpeg)
 ![image alt](https://github.com/CollegeBoreal/INF1092-201-E26-01/blob/762316e8b169e6226b5a1d89db23cc61e45ad708/3.IaC/300160006/images/WhatsApp%20Image%202026-06-07%20at%2020.12.28%20(10).jpeg)
