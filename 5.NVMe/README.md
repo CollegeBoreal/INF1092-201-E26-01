@@ -94,3 +94,17 @@ Formatter le disque NVMe
 
 Vérifier que le serveur est atteignable
 
+## 📸 Images du projet
+
+![img1](images/img1.jpeg)
+![img2](images/img2.jpeg)
+![img3](images/img3.jpeg)
+![img4](images/img4.jpeg)
+![img5](images/img5.jpeg)
+![img6](images/img6.jpeg)
+![img7](images/img7.jpeg)
+![img8](images/img8.jpeg)
+![img9](images/img9.jpeg)
+![img10](images/img10.jpeg)
+![img11](images/img11.jpeg)
+
