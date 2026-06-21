@@ -22,6 +22,6 @@
 | 4 | [300157298](../300157298/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/288085455?s=460&v=4' width=20 height=20></image>](https://github.com/amar20101999) | :x: | :x: |
 | 5 | [300157307](../300157307/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/261494517?s=460&v=4' width=20 height=20></image>](https://github.com/amaradjida7-hub) | :x: | :x: |
 | 6 | [300157423](../300157423/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/261497291?s=460&v=4' width=20 height=20></image>](https://github.com/gaya-994) | :x: | :x: |
-| 7 | [300157606](../300157606/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/261497731?s=460&v=4' width=20 height=20></image>](https://github.com/ouahiba1994) | :x: | :x: |
+| 7 | [300157606](../300157606/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/261497731?s=460&v=4' width=20 height=20></image>](https://github.com/ouahiba1994) | :x: | :heavy_check_mark: |
 | 8 | [300157727](../300157727/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/262933367?s=460&v=4' width=20 height=20></image>](https://github.com/rayan23082001) | :x: | :x: |
 | :abacus: | \$\frac{0}{8}\$ = 0% | \$\displaystyle\sum_{i=1}^{8} s_i\$ = 0 |
