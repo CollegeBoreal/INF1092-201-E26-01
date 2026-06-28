@@ -1,7 +1,7 @@
 RAPPORT D'ATELIER : Installation de Windows Server 2022 (DATA CENTER) via PXE
 Cours : Introduction à l'administration Système
 
-Étudiante : [Rosemene Bernard]
+Étudiante : Rosemene Bernard
 
 1. Objectif
 Installer et configurer initialement Windows Server 2022 en utilisant le démarrage réseau PXE (Preboot Execution Environment), sans support physique (clé USB).
