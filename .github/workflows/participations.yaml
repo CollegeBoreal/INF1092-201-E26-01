@@ -48,8 +48,16 @@ jobs:
           ##
           ## Évaluation du chapitre 5.NVMe
           ##
-          Write-Host "Evaluating chapter 5.NVMe  Participation"
+          Write-Host "Evaluating chapter 5.NVMe Participation"
           Set-Location 5.NVMe
+          pwsh .scripts/run.ps1
+          Set-Location ..
+
+          ##
+          ## Évaluation du chapitre 6.HyperV
+          ##
+          Write-Host "Evaluating chapter 6.HyperV Participation"
+          Set-Location 6.HyperV
           pwsh .scripts/run.ps1
           Set-Location ..
 
