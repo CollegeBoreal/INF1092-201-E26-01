@@ -1,12 +1,3 @@
-# =====================================================================
-# CONFIGURATION
-# =====================================================================
-# Static IDs and flags used throughout participation grading
-# =====================================================================
-
-# LMS assignment ID where participation grades will be submitted
-$LMSAssignmentID = 32
-
 # Enables verbose/debug output when set to $true
 $DEBUG = $false
 

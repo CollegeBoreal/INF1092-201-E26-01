@@ -34,6 +34,15 @@ $responseLMS = Get-LMSGradableUsers -LMS_COURSE $LMS_COURSE
 # }
 $LMSStudents = Get-LMSStudentInfo -LMSResponse $responseLMS
 
+# =====================================================================
+# CONFIGURATION
+# =====================================================================
+# Static IDs and flags used throughout participation grading
+# =====================================================================
+
+# LMS assignment ID where participation grades will be submitted
+$LMSAssignmentID = 32
+
 # ---------------------------------------------------------------------
 # READ PARTICIPATION FILES
 # ---------------------------------------------------------------------
