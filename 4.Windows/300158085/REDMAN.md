@@ -8,3 +8,10 @@ Cette étape montre la connexion au serveur Windows Deployment Services (WDS). L
 
 <img width="1536" height="2048" alt="PHOTO-2026-06-30-12-37-31" src="https://github.com/user-attachments/assets/ade26fb0-389f-4d65-9561-8c8a069e3f40" />
 
+Configuration du contrôleur RAID
+Cette étape montre la configuration du contrôleur RAID avant l'installation du système d'exploitation. Les disques durs disponibles sont détectés et le niveau RAID 5 est sélectionné afin de créer un volume logique. Cette configuration permet d'améliorer la protection des données tout en offrant une bonne capacité de stockage pour le serveur.
+
+<img width="1536" height="2048" alt="PHOTO-2026-06-30-12-37-33 10" src="https://github.com/user-attachments/assets/b179685b-0a84-48cb-914f-78c3af46bc93" />
+
+
+
