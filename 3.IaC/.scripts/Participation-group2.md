@@ -14,8 +14,8 @@
 
 ## :a: Présence
 
-|:hash:| Boréal :id: | README.md | images | Appréciation | Commentaires |
-|------|-------------|-----------|--------|--------------|--------------|
+|:hash:| Boréal :id: | README.md | images |
+|------|-------------|-----------|--------|
 | 1 | [300151722](../300151722/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/261488966?s=460&v=4' width=20 height=20></image>](https://github.com/islamoustani5-collab) | :2nd_place_medal: | :heavy_check_mark: | :x: | À corriger |
 | 2 | [300152004](../300152004/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/218153814?s=460&v=4' width=20 height=20></image>](https://github.com/danielmananga) | :x: | :x: | :x: | À corriger |
 | 3 | [300153405](../300153405/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/261492660?s=460&v=4' width=20 height=20></image>](https://github.com/rekaikkhaled) | :x: | :x: | :x: | À corriger |
