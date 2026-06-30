@@ -1,1 +1,3 @@
 Dans le cadre du cours INF1092, j’ai créé mon espace personnel sur GitHub en ouvrant un répertoire nommé 300159203. À l’intérieur, j’ai ajouté un fichier README.md pour documenter mon travail ainsi qu’un dossier images contenant un fichier .gitkeep afin de permettre son suivi par Git. J’ai ensuite déposé mes images dans ce dossier et je les ai intégrées dans ce README à l’aide de la syntaxe Markdown. Ce travail démontre ma capacité à utiliser GitHub pour organiser mes fichiers, structurer un projet et présenter clairement mes éléments visuels.
+![Ma photo]([https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/British_Shorthair._Female._18_months_old.jpg/960px-British_Shorthair._Female._18_months_old.jpg])
+
