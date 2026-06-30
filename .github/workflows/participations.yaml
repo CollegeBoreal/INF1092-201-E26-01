@@ -24,7 +24,7 @@ jobs:
           LMS_URL: ${{ secrets.LMS_URL }}
           API_SYNC_TOKEN: ${{ secrets.API_SYNC_TOKEN }}
         run: |
-          pwsh .scripts/push_grades.ps1
+          pwsh .scripts/grading/push_grades.ps1
 
       # ------------------------------------------------------------------
       # Evaluate all chapters
