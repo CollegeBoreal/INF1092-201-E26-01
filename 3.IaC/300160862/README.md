@@ -1,1 +1,2 @@
-
+Ce projet présente une méthode simple pour vérifier le bon fonctionnement d'un serveur HP DL360 G6 avant son achat. L'objectif est de s'assurer que les principaux composants matériels sont en bon état et que le serveur peut être utilisé de manière fiable.
+La vérification comprend l'inspection physique du serveur, le démarrage du système, l'accès au BIOS, la détection du processeur, de la mémoire et des disques, ainsi que la validation de l'état du contrôleur RAID. Les images ajoutées dans ce projet illustrent les différentes étapes réalisées et servent de preuve des vérifications effectuées. Cette procédure permet de prendre une décision éclairée avant l'acquisition du serveur.
