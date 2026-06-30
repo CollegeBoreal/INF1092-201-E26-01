@@ -1,4 +1,3 @@
-ID:300158085
 Server Manager – Dashboard
 
 Cette étape montre l'ouverture de Server Manager sur Windows Server. Le tableau de bord permet de gérer le serveur, de vérifier son état et d'accéder aux différentes options d'administration. C'est à partir de cette interface que les rôles, les fonctionnalités et les services du serveur peuvent être installés et configurés pour les prochaines étapes du laboratoire.
