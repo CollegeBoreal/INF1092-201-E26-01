@@ -1,4 +1,4 @@
-# Participation au 30-06-2026 02:17
+# Participation au 30-06-2026 03:01
 
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
@@ -43,10 +43,10 @@
 | 24 | [300159672](../300159672/README.md) :point_right: [1999amadou03-star](https://github.com/1999amadou03-star) <image src='https://avatars0.githubusercontent.com/u/233241856?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
 | 25 | [300159887](../300159887/README.md) :point_right: [hammichebillal06-dot](https://github.com/hammichebillal06-dot) <image src='https://avatars0.githubusercontent.com/u/261490027?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 26 | [300159995](../300159995/README.md) :point_right: [nidalon52-glitch](https://github.com/nidalon52-glitch) <image src='https://avatars0.githubusercontent.com/u/261493465?s=460&v=4' width=20 height=20></image> | :x: | :x: |
-| 27 | [300160006](../300160006/README.md) :point_right: [maimouna247](https://github.com/maimouna247) <image src='https://avatars0.githubusercontent.com/u/261489041?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
+| 27 | [300160006](../300160006/README.md) :point_right: [maimouna247](https://github.com/maimouna247) <image src='https://avatars0.githubusercontent.com/u/261489041?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
 | 28 | [300160424](../300160424/README.md) :point_right: [youcef-1994](https://github.com/youcef-1994) <image src='https://avatars0.githubusercontent.com/u/261502136?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 29 | [300160504](../300160504/README.md) :point_right: [mmounir07](https://github.com/mmounir07) <image src='https://avatars0.githubusercontent.com/u/261492337?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
 | 30 | [300160733](../300160733/README.md) :point_right: [belhadiyanis200-a11y](https://github.com/belhadiyanis200-a11y) <image src='https://avatars0.githubusercontent.com/u/261489188?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 31 | [300160862](../300160862/README.md) :point_right: [cherifyamna](https://github.com/cherifyamna) <image src='https://avatars0.githubusercontent.com/u/261494322?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 32 | [300155045](../300155045/README.md) :point_right: [chouaibait](https://github.com/chouaibait) <image src='https://avatars0.githubusercontent.com/u/232956639?s=460&v=4' width=20 height=20></image> | :x: | :x: |
-| :abacus: | \$\\frac{11}{33}\$ = 33.33% | \$\displaystyle\sum_{i=1}^{33} s_i\$ = 11 |
+| :abacus: | \$\\frac{10}{33}\$ = 30.3% | \$\displaystyle\sum_{i=1}^{33} s_i\$ = 10 |

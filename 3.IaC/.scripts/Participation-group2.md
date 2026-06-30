@@ -19,5 +19,5 @@
 | 1 | [300151722](../300151722/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/261488966?s=460&v=4' width=20 height=20></image>](https://github.com/islamoustani5-collab) | :2nd_place_medal: | :heavy_check_mark: | :2nd_place_medal: | Manque les images pour plus de réalité |
 | 2 | [300152004](../300152004/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/218153814?s=460&v=4' width=20 height=20></image>](https://github.com/danielmananga) | :x: | :x: | :x: | À corriger |
 | 3 | [300153405](../300153405/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/261492660?s=460&v=4' width=20 height=20></image>](https://github.com/rekaikkhaled) | :x: | :x: | :x: | À corriger |
-| 4 | [300153416](../300153416/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/262935334?s=460&v=4' width=20 height=20></image>](https://github.com/rouabahkhalil28-crypto) | :2nd_place_medal: | :heavy_check_mark: | :3rd_place_medal: | Pas grand chose à corriger |
-| :abacus: | \$\frac{2}{4}\$ = 50% | \$\displaystyle\sum_{i=1}^{4} s_i\$ = 2 |
+| 4 | [300153416](../300153416/README.md) :point_right: [<image src='https://avatars0.githubusercontent.com/u/262935334?s=460&v=4' width=20 height=20></image>](https://github.com/rouabahkhalil28-crypto) | :x: | :x: | :3rd_place_medal: | Pas grand chose à corriger |
+| :abacus: | \$\frac{1}{4}\$ = 25% | \$\displaystyle\sum_{i=1}^{4} s_i\$ = 1 |
