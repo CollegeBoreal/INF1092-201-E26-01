@@ -11,6 +11,8 @@ Clavier et écran connectés
 Puis :
 Vérifier l'alimentation (PSU1 et PSU2)
 Vérifier la connexion réseau (câble réseau branché, ports fonctionnels)
+
+
 2. **Installation de Windows Server**
 Démarrer le serveur.
 Choisir le démarrage PXE (F12).
@@ -20,7 +22,9 @@ Choisir le disque d'installation.
 Supprimer les anciennes partitions si nécessaire.
 Cliquer sur Installer.
 Attendre la fin de l'installation (environ 15 minutes).
-3. **Première connexion**
+
+
+4. **Première connexion**
 Étapes
 
 Se connecter avec Administrator **(pxe@labinfo.local)**.
