@@ -38,13 +38,24 @@ Pendant ce laboratoire, j'ai installé Windows Server 2022 Datacenter sur un ser
 
 
 
+<img width="1536" height="2048" alt="PHOTO-2026-06-30-14-01-16 2" src="https://github.com/user-attachments/assets/07700968-71b3-4e58-a562-ac72a283c778" />
 
-![photo1](images/PHOTO-2026-06-30-14-01-16.jpg)
-![photo2](images/PHOTO-2026-06-30-14-01-16_2.jpg)
-![photo3](images/PHOTO-2026-06-30-14-01-16_3.jpg)
-![photo4](images/PHOTO-2026-06-30-14-01-16_4.jpg)
-![photo5](images/PHOTO-2026-06-30-14-01-16_5.jpg)
-![photo6](images/PHOTO-2026-06-30-14-01-16_6.jpg)
+<img width="1536" height="2048" alt="PHOTO-2026-06-30-14-01-17 7" src="https://github.com/user-attachments/assets/dcdf7460-3198-4d6d-a08e-3bece9a93ec6" />
+
+<img width="1536" height="2048" alt="PHOTO-2026-06-30-14-01-17 2" src="https://github.com/user-attachments/assets/9754edfa-20e2-4717-9693-e5868825147e" />
+
+<img width="1536" height="2048" alt="PHOTO-2026-06-30-14-01-17" src="https://github.com/user-attachments/assets/edec478d-9d10-4d05-ba82-3995536da9e1" />
+
+<img width="1200" height="1600" alt="PHOTO-2026-06-30-14-01-18 2" src="https://github.com/user-attachments/assets/3e6da90a-ff11-4dd7-92a4-cee20a1eac71" />
+
+
+
+
+
+
+
+
+
 
 
 
