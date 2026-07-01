@@ -49,25 +49,23 @@ jobs:
       # ------------------------------------------------------------------
       # Push All Grades
       # ------------------------------------------------------------------
-      # - name: Noter les chapitres
-      #   shell: pwsh
-      #   env:
-      #     LMS_URL: ${{ secrets.LMS_URL }}
-      #     API_SYNC_TOKEN: ${{ secrets.API_SYNC_TOKEN }}
-      #   run: |
-      #     $chapters = @(
-      #       "0.PlanDeCours",
-      #       "1.Programmation/1.IDE",
-      #       "3.IaC"
-      #     )
+      - name: Noter les chapitres
+        shell: pwsh
+        env:
+          LMS_URL: ${{ secrets.LMS_URL }}
+          API_SYNC_TOKEN: ${{ secrets.API_SYNC_TOKEN }}
+        run: |
+          $chapters = @(
+            "3.IaC"
+          )
 
-      #     foreach ($chapter in $chapters) {
-      #         Write-Host "--------------------------------------------"
-      #         Write-Host "Grading chapter $chapter"
-      #         Push-Location $chapter
-      #         pwsh .scripts/grading/push_grades.ps1
-      #         Pop-Location
-      #     }
+          foreach ($chapter in $chapters) {
+              Write-Host "--------------------------------------------"
+              Write-Host "Grading chapter $chapter"
+              Push-Location $chapter
+              pwsh .scripts/grading/push_grades.ps1
+              Pop-Location
+          }
 
       # ------------------------------------------------------------------
       # Commit generated files
