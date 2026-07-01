@@ -21,7 +21,7 @@ $RepoRoot = Resolve-Path (Join-Path $PSScriptRoot "../../..")
 . (Join-Path $RepoRoot ".scripts/grading/functions.ps1")
 
 # Fichier local au script
-. (Join-Path $PSScriptRoot "WSfunctions.ps1")
+. (Join-Path $PSScriptRoot "WSFunctions.ps1")
 
 # ---------------------------------------------------------------------
 # FETCH GRADABLE USERS FROM LMS
